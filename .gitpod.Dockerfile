@@ -10,4 +10,6 @@ RUN brew install \
     exa \
     fzf \
     gitleaks \
-    markdownlint-cli
+    markdownlint-cli \
+    direnv \
+    commitizen
