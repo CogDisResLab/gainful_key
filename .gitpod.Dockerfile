@@ -10,5 +10,5 @@ RUN brew install \
     fd-find \
     exa \
     fzf \
-    hugo \
-    hugo-extended
+    gitleaks \
+    markdownlint-cli
