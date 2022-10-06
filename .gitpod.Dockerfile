@@ -7,7 +7,6 @@ RUN brew install \
     bat \
     tldr \
     ripgrep \
-    fd-find \
     exa \
     fzf \
     gitleaks \
